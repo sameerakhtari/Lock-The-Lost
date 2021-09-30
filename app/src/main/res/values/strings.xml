@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Lock The Lost</string>
+    <string name="activity_in_vehicle">In Vehicle</string>
+    <string name="activity_on_bicycle">On Bicycle</string>
+    <string name="activity_on_foot">On Foot</string>
+    <string name="activity_running">Running</string>
+    <string name="activity_still">Still</string>
+    <string name="activity_tilting">Tilting</string>
+    <string name="activity_walking">walking</string>
+    <string name="activity_unknown">Unknown</string>
+
+
+    <!-- Proximity and light sensor output. The %1$.2f part is a placeholder
+    that will be filled in at runtime:
+    %1 is the value to replace
+    $.2f says the value is a float, with two decimal places. -->
+    <string name="label_proximity">Proximity Sensor: %1$.2f</string>
+    <string name="label_light">Light Sensor: %1$.2f</string>
+
+    <!-- error message if sensors are not available. -->
+    <string name="error_no_sensor">No sensor</string>
+    <!-- error message if sensors are not available. -->
+
+    <string name="label_accelerometer">Accelerometer Sensor: %1$.2f</string>
+    <string name="label_ambientTemperature">AmbientTemperature Sensor: %1$.2f</string>
+    <string name="label_gravity">Gravity Sensor: %1$.2f</string>
+    <string name="label_gyroscope">Gyroscope Sensor: %1$.2f</string>
+    <string name="label_linearAcceleration">LinearAcceleration Sensor: %1$.2f</string>
+    <string name="label_magneticField">MagneticField Sensor: %1$.2f</string>
+    <string name="label_orientation">Orientation Sensor: %1$.2f</string>
+    <string name="label_pressure">Pressure Sensor: %1$.2f</string>
+    <string name="label_relativeHumidity">RelativeHumidity Sensor: %1$.2f</string>
+    <string name="label_rotationVector">RotationVector Sensor: %1$.2f</string>
+    <string name="label_temperature">Temperature Sensor: %1$.2f</string>
+    <string name="label_gameRotationVector">GameRotationVector Sensor: %1$.2f</string>
+    <string name="label_geomagneticRotationVector">GeomagneticRotationVector Sensor: %1$.2f</string>
+
+
+
+</resources>
