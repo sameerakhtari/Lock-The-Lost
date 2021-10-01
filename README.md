@@ -6,3 +6,6 @@ to track it later. The main purpose of our application is not to disturb the flo
 My application "LOCK THE LOST" is compactible to detect the fall and able to fake the shutdown process and meanwhile turn on GPS service and Mobile Data so that user will able 
 to locate it later. The quality of my application is that it will never fake these process if you intentionally drop your phone for testing :) . 
 [Phone must be Rooted for fake shutdown process]
+
+YOUTUBE LINK: https://youtu.be/_fARiVVc1i8
+PPT LINK: https://drive.google.com/drive/folders/15BklaNQ2JLx16aRWNTl4pH-va-YluMWt?usp=sharing
