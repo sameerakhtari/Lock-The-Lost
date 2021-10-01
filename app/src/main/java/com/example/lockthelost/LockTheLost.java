@@ -163,6 +163,10 @@ public class LockTheLost  {
     {
         //PasswordDb.getDatabaseInstance(getApplicationContext()).passwordDao().getPassword();
     }
+    public void addData()
+    {
+        //SetPass.getDbInstance(getApplicationContext()).PasswordDao().getPassword();
+    }
     
     
     
